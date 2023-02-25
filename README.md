@@ -47,7 +47,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ 
+⇒ https://todolist-frontend-blue.vercel.app/
 
 ## 🧑‍💻 Authors
 
